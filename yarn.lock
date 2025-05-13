@@ -1645,7 +1645,7 @@ __metadata:
     "@polkadot/phishing": "npm:^0.25.9"
     "@polkadot/react-components": "npm:^0.155.2-3-x"
     "@polkadot/react-hooks": "npm:^0.155.2-3-x"
-    "@polkadot/test-support": "npm:^0.155.2-3-x"
+    "@polkadot/test-support": "npm:0.155.2-3-x"
     "@polkadot/util": "npm:^13.4.4"
     "@polkadot/vanitygen": "npm:^0.63.6"
     detect-browser: "npm:^5.3.0"
@@ -1709,7 +1709,7 @@ __metadata:
   resolution: "@polkadot/app-bounties@workspace:packages/page-bounties"
   dependencies:
     "@polkadot/react-components": "npm:^0.155.2-3-x"
-    "@polkadot/test-support": "npm:^0.155.2-3-x"
+    "@polkadot/test-support": "npm:0.155.2-3-x"
   peerDependencies:
     react: "*"
     react-dom: "*"
@@ -1721,8 +1721,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@polkadot/app-broker@workspace:packages/page-broker"
   dependencies:
-    "@polkadot/react-components": "npm:^0.155.2-3-x"
-    "@polkadot/react-query": "npm:^0.155.2-3-x"
+    "@polkadot/react-components": "npm:0.155.2-3-x"
+    "@polkadot/react-query": "npm:0.155.2-3-x"
   peerDependencies:
     react: "*"
     react-dom: "*"
