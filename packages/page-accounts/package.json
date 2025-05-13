@@ -26,7 +26,7 @@
     "file-saver": "^2.0.5"
   },
   "devDependencies": {
-    "@polkadot/test-support": "0.155.2-4-x"
+    "@polkadot/test-support": "0.155.2-3-x"
   },
   "peerDependencies": {
     "react": "*",
